@@ -1,1 +1,1 @@
-# mnapoleon
+[![mnapoleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnapoleon)](https://github.com/mnapoleon/github-readme-stats)
